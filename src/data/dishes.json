@@ -1,0 +1,542 @@
+[
+  {
+    "categoryId": 1,
+    "mealType": "MAIN COURSE",
+    "type": "VEG",
+    "description": "Paneer cooked in rich tomato butter gravy.",
+    "image": "https://j6e2i8c9.delivery.rocketcdn.me/wp-content/uploads/2020/12/Paneer-butter-masala-recipe-3.jpg.webp",
+    "category": {
+      "id": 1,
+      "name": "North Indian",
+      "image": "https://storage.googleapis.com/chefkartimages/customer_app_assets/star_chef/north_indian.png",
+      "isRecommendedForMealSuggestion": true
+    },
+    "dishType": "CURRY",
+    "forChefit": true,
+    "forParty": true,
+    "name": "Paneer Butter Masala",
+    "id": 1
+  },
+  {
+    "categoryId": 1,
+    "mealType": "MAIN COURSE",
+    "type": "VEG",
+    "description": "North Indian style chickpea curry with spices.",
+    "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/07/chole-recipe.jpg",
+    "category": {
+      "id": 1,
+      "name": "North Indian",
+      "image": "https://storage.googleapis.com/chefkartimages/customer_app_assets/star_chef/north_indian.png",
+      "isRecommendedForMealSuggestion": true
+    },
+    "dishType": "CURRY",
+    "forChefit": true,
+    "forParty": true,
+    "name": "Chole Masala",
+    "id": 2
+  },
+  {
+    "categoryId": 1,
+    "mealType": "MAIN COURSE",
+    "type": "VEG",
+    "description": "Mixed vegetables cooked in a spiced onion-tomato based gravy.",
+    "image": "https://static.india.com/wp-content/uploads/2024/08/Mixed-Vegetable-Curry.jpg?impolicy=Medium_Widthonly&w=500&h=375",
+    "category": {
+      "id": 1,
+      "name": "North Indian",
+      "image": "https://storage.googleapis.com/chefkartimages/customer_app_assets/star_chef/north_indian.png",
+      "isRecommendedForMealSuggestion": true
+    },
+    "dishType": "CURRY",
+    "forChefit": true,
+    "forParty": true,
+    "name": "Mix Veg Curry",
+    "id": 3
+  },
+  {
+    "categoryId": 1,
+    "mealType": "MAIN COURSE",
+    "type": "VEG",
+    "description": "Spiced cauliflower and potato curry.",
+    "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2020/05/aloo-gobi-recipe.jpg",
+    "category": {
+      "id": 1,
+      "name": "North Indian",
+      "image": "https://storage.googleapis.com/chefkartimages/customer_app_assets/star_chef/north_indian.png",
+      "isRecommendedForMealSuggestion": true
+    },
+    "dishType": "DRY",
+    "forChefit": true,
+    "forParty": true,
+    "name": "Aloo Gobi",
+    "id": 4
+  },
+  {
+    "categoryId": 1,
+    "mealType": "MAIN COURSE",
+    "type": "VEG",
+    "description": "Spinach and cottage cheese cooked in a mildly spiced curry.",
+    "image": "https://www.cookingandme.com/wp-content/uploads/2021/11/palak-paneer-recipe.jpeg",
+    "category": {
+      "id": 1,
+      "name": "North Indian",
+      "image": "https://storage.googleapis.com/chefkartimages/customer_app_assets/star_chef/north_indian.png",
+      "isRecommendedForMealSuggestion": true
+    },
+    "dishType": "CURRY",
+    "forChefit": true,
+    "forParty": true,
+    "name": "Palak Paneer",
+    "id": 5
+  },
+  {
+    "categoryId": 1,
+    "mealType": "MAIN COURSE",
+    "type": "VEG",
+    "description": "Lentils cooked with butter and cream in rich tomato-onion gravy.",
+    "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2018/02/dal-makhani-recipe-500x500.jpg",
+    "category": {
+      "id": 1,
+      "name": "North Indian",
+      "image": "https://storage.googleapis.com/chefkartimages/customer_app_assets/star_chef/north_indian.png",
+      "isRecommendedForMealSuggestion": true
+    },
+    "dishType": "CURRY",
+    "forChefit": true,
+    "forParty": true,
+    "name": "Dal Makhani",
+    "id": 6
+  },
+  {
+    "categoryId": 1,
+    "mealType": "MAIN COURSE",
+    "type": "VEG",
+    "description": "Deep fried koftas made of mixed vegetables simmered in spiced gravy.",
+    "image": "https://www.cookwithmanali.com/wp-content/uploads/2019/04/Malai-Kofta-Recipe.jpg",
+    "category": {
+      "id": 1,
+      "name": "North Indian",
+      "image": "https://storage.googleapis.com/chefkartimages/customer_app_assets/star_chef/north_indian.png",
+      "isRecommendedForMealSuggestion": true
+    },
+    "dishType": "CURRY",
+    "forChefit": true,
+    "forParty": true,
+    "name": "Malai Kofta",
+    "id": 7
+  },
+  {
+    "categoryId": 1,
+    "mealType": "MAIN COURSE",
+    "type": "VEG",
+    "description": "Bhindi cooked with onions, spices, and tomato.",
+    "image": "https://www.whiskaffair.com/wp-content/uploads/2020/06/Bhindi-Do-Pyaza-2-3.jpg",
+    "category": {
+      "id": 1,
+      "name": "North Indian",
+      "image": "https://storage.googleapis.com/chefkartimages/customer_app_assets/star_chef/north_indian.png",
+      "isRecommendedForMealSuggestion": true
+    },
+    "dishType": "DRY",
+    "forChefit": true,
+    "forParty": true,
+    "name": "Bhindi Do Pyaza",
+    "id": 8
+  },
+  {
+    "categoryId": 1,
+    "mealType": "MAIN COURSE",
+    "type": "VEG",
+    "description": "Kidney beans cooked in aromatic tomato-based gravy.",
+    "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/07/rajma-recipe.jpg",
+    "category": {
+      "id": 1,
+      "name": "North Indian",
+      "image": "https://storage.googleapis.com/chefkartimages/customer_app_assets/star_chef/north_indian.png",
+      "isRecommendedForMealSuggestion": true
+    },
+    "dishType": "CURRY",
+    "forChefit": true,
+    "forParty": true,
+    "name": "Rajma Masala",
+    "id": 9
+  },
+  {
+    "categoryId": 1,
+    "mealType": "MAIN COURSE",
+    "type": "VEG",
+    "description": "Paneer cubes and peas cooked in spicy onion-tomato gravy.",
+    "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/09/matar-paneer-recipe.jpg",
+    "category": {
+      "id": 1,
+      "name": "North Indian",
+      "image": "https://storage.googleapis.com/chefkartimages/customer_app_assets/star_chef/north_indian.png",
+      "isRecommendedForMealSuggestion": true
+    },
+    "dishType": "CURRY",
+    "forChefit": true,
+    "forParty": true,
+    "name": "Matar Paneer",
+    "id": 10
+  },
+  {
+    "categoryId": 1,
+    "mealType": "MAIN COURSE",
+    "type": "NON-VEG",
+    "description": "Classic chicken curry cooked in spiced tomato-onion gravy.",
+    "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2022/07/chicken-curry-recipe-1.jpg",
+    "category": {
+      "id": 1,
+      "name": "North Indian",
+      "image": "https://storage.googleapis.com/chefkartimages/customer_app_assets/star_chef/north_indian.png",
+      "isRecommendedForMealSuggestion": true
+    },
+    "dishType": "CURRY",
+    "forChefit": true,
+    "forParty": true,
+    "name": "Chicken Curry",
+    "id": 11
+  },
+  {
+    "categoryId": 1,
+    "mealType": "MAIN COURSE",
+    "type": "NON-VEG",
+    "description": "Chicken pieces cooked in creamy tomato butter gravy.",
+    "image": "https://www.whiskaffair.com/wp-content/uploads/2019/03/Butter-Chicken-2-3.jpg",
+    "category": {
+      "id": 1,
+      "name": "North Indian",
+      "image": "https://storage.googleapis.com/chefkartimages/customer_app_assets/star_chef/north_indian.png",
+      "isRecommendedForMealSuggestion": true
+    },
+    "dishType": "CURRY",
+    "forChefit": true,
+    "forParty": true,
+    "name": "Butter Chicken",
+    "id": 12
+  },
+  {
+    "categoryId": 1,
+    "mealType": "MAIN COURSE",
+    "type": "NON-VEG",
+    "description": "Mutton curry cooked with spices in rich onion-tomato gravy.",
+    "image": "https://www.whiskaffair.com/wp-content/uploads/2020/07/Mutton-Curry-2-3.jpg",
+    "category": {
+      "id": 1,
+      "name": "North Indian",
+      "image": "https://storage.googleapis.com/chefkartimages/customer_app_assets/star_chef/north_indian.png",
+      "isRecommendedForMealSuggestion": true
+    },
+    "dishType": "CURRY",
+    "forChefit": true,
+    "forParty": true,
+    "name": "Mutton Curry",
+    "id": 13
+  },
+  {
+    "categoryId": 1,
+    "mealType": "MAIN COURSE",
+    "type": "NON-VEG",
+    "description": "Chicken marinated with yogurt and tandoori spices, roasted to perfection.",
+    "image": "https://www.cubesnjuliennes.com/wp-content/uploads/2020/12/Chicken-Tandoori-Recipe.jpg",
+    "category": {
+      "id": 1,
+      "name": "North Indian",
+      "image": "https://storage.googleapis.com/chefkartimages/customer_app_assets/star_chef/north_indian.png",
+      "isRecommendedForMealSuggestion": true
+    },
+    "dishType": "GRILLED",
+    "forChefit": true,
+    "forParty": true,
+    "name": "Tandoori Chicken",
+    "id": 14
+  },
+  {
+    "categoryId": 1,
+    "mealType": "MAIN COURSE",
+    "type": "NON-VEG",
+    "description": "Rich and spicy lamb curry with ground spices.",
+    "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2023/01/rogan-josh.jpg",
+    "category": {
+      "id": 1,
+      "name": "North Indian",
+      "image": "https://storage.googleapis.com/chefkartimages/customer_app_assets/star_chef/north_indian.png",
+      "isRecommendedForMealSuggestion": true
+    },
+    "dishType": "CURRY",
+    "forChefit": true,
+    "forParty": true,
+    "name": "Rogan Josh",
+    "id": 15
+  },
+  {
+    "categoryId": 1,
+    "mealType": "MAIN COURSE",
+    "type": "NON-VEG",
+    "description": "Spicy chicken curry from Andhra with ground spices and coconut.",
+    "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/09/andhra-chicken-curry.jpg",
+    "category": {
+      "id": 1,
+      "name": "North Indian",
+      "image": "https://storage.googleapis.com/chefkartimages/customer_app_assets/star_chef/north_indian.png",
+      "isRecommendedForMealSuggestion": true
+    },
+    "dishType": "CURRY",
+    "forChefit": true,
+    "forParty": true,
+    "name": "Andhra Chicken Curry",
+    "id": 16
+  },
+  {
+  "categoryId": 1,
+  "mealType": "MAIN COURSE",
+  "type": "NON-VEG",
+  "description": "Slow-cooked mutton curry in onion-tomato masala with garam masala.",
+  "image": "https://www.whiskaffair.com/wp-content/uploads/2016/01/Mutton-Rogan-Josh-2-3.jpg",
+  "category": {
+    "id": 1,
+    "name": "North Indian",
+    "image": "https://storage.googleapis.com/chefkartimages/customer_app_assets/star_chef/north_indian.png",
+    "isRecommendedForMealSuggestion": true
+  },
+  "dishType": "CURRY",
+  "forChefit": true,
+  "forParty": true,
+  "name": "Mutton Rogan Josh",
+  "id": 17
+},
+{
+  "categoryId": 1,
+  "mealType": "MAIN COURSE",
+  "type": "NON-VEG",
+  "description": "Egg curry cooked in spiced onion-tomato gravy.",
+  "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/09/egg-curry-recipe.jpg",
+  "category": {
+    "id": 1,
+    "name": "North Indian",
+    "image": "https://storage.googleapis.com/chefkartimages/customer_app_assets/star_chef/north_indian.png",
+    "isRecommendedForMealSuggestion": true
+  },
+  "dishType": "CURRY",
+  "forChefit": true,
+  "forParty": true,
+  "name": "Egg Curry",
+  "id": 18
+},
+{
+  "categoryId": 1,
+  "mealType": "MAIN COURSE",
+  "type": "NON-VEG",
+  "description": "Chicken cooked in rich cashew and cream based gravy.",
+  "image": "https://www.whiskaffair.com/wp-content/uploads/2016/06/Chicken-Korma-2-3.jpg",
+  "category": {
+    "id": 1,
+    "name": "North Indian",
+    "image": "https://storage.googleapis.com/chefkartimages/customer_app_assets/star_chef/north_indian.png",
+    "isRecommendedForMealSuggestion": true
+  },
+  "dishType": "CURRY",
+  "forChefit": true,
+  "forParty": true,
+  "name": "Chicken Korma",
+  "id": 19
+},
+{
+  "categoryId": 1,
+  "mealType": "MAIN COURSE",
+  "type": "NON-VEG",
+  "description": "Chicken cooked in thick spicy masala with yogurt and tomatoes.",
+  "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2022/05/chicken-masala.jpg",
+  "category": {
+    "id": 1,
+    "name": "North Indian",
+    "image": "https://storage.googleapis.com/chefkartimages/customer_app_assets/star_chef/north_indian.png",
+    "isRecommendedForMealSuggestion": true
+  },
+  "dishType": "CURRY",
+  "forChefit": true,
+  "forParty": true,
+  "name": "Chicken Masala",
+  "id": 20
+},
+{
+  "categoryId": 1,
+  "mealType": "MAIN COURSE",
+  "type": "NON-VEG",
+  "description": "Boneless chicken simmered in a spicy balti (wok) style curry.",
+  "image": "https://www.whiskaffair.com/wp-content/uploads/2021/02/Chicken-Balti-2-3.jpg",
+  "category": {
+    "id": 1,
+    "name": "North Indian",
+    "image": "https://storage.googleapis.com/chefkartimages/customer_app_assets/star_chef/north_indian.png",
+    "isRecommendedForMealSuggestion": true
+  },
+  "dishType": "CURRY",
+  "forChefit": true,
+  "forParty": true,
+  "name": "Chicken Balti",
+  "id": 21
+},
+{
+  "categoryId": 1,
+  "mealType": "MAIN COURSE",
+  "type": "NON-VEG",
+  "description": "Mutton prepared in spicy curry with yogurt and onion tomato base.",
+  "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/07/mutton-curry-recipe.jpg",
+  "category": {
+    "id": 1,
+    "name": "North Indian",
+    "image": "https://storage.googleapis.com/chefkartimages/customer_app_assets/star_chef/north_indian.png",
+    "isRecommendedForMealSuggestion": true
+  },
+  "dishType": "CURRY",
+  "forChefit": true,
+  "forParty": true,
+  "name": "Mutton Masala",
+  "id": 22
+},
+{
+  "categoryId": 1,
+  "mealType": "MAIN COURSE",
+  "type": "VEG",
+  "description": "Grilled paneer cubes marinated in spiced yogurt mix.",
+  "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2018/11/paneer-tikka-1.jpg",
+  "category": {
+    "id": 1,
+    "name": "North Indian",
+    "image": "https://storage.googleapis.com/chefkartimages/customer_app_assets/star_chef/north_indian.png",
+    "isRecommendedForMealSuggestion": true
+  },
+  "dishType": "GRILLED",
+  "forChefit": true,
+  "forParty": true,
+  "name": "Paneer Tikka",
+  "id": 23
+},
+{
+  "categoryId": 1,
+  "mealType": "MAIN COURSE",
+  "type": "VEG",
+  "description": "Seasoned potatoes cooked with mustard seeds and dry spices.",
+  "image": "https://www.cookwithmanali.com/wp-content/uploads/2013/06/Jeera-Aloo.jpg",
+  "category": {
+    "id": 1,
+    "name": "North Indian",
+    "image": "https://storage.googleapis.com/chefkartimages/customer_app_assets/star_chef/north_indian.png",
+    "isRecommendedForMealSuggestion": true
+  },
+  "dishType": "DRY",
+  "forChefit": true,
+  "forParty": true,
+  "name": "Jeera Aloo",
+  "id": 24
+},
+{
+  "categoryId": 1,
+  "mealType": "MAIN COURSE",
+  "type": "VEG",
+  "description": "Lauki cooked in spiced tomato based curry.",
+  "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/05/lauki-ki-sabzi.jpg",
+  "category": {
+    "id": 1,
+    "name": "North Indian",
+    "image": "https://storage.googleapis.com/chefkartimages/customer_app_assets/star_chef/north_indian.png",
+    "isRecommendedForMealSuggestion": true
+  },
+  "dishType": "CURRY",
+  "forChefit": true,
+  "forParty": true,
+  "name": "Lauki Ki Sabzi",
+  "id": 25
+},
+{
+  "categoryId": 1,
+  "mealType": "MAIN COURSE",
+  "type": "VEG",
+  "description": "Lotus stem curry cooked in Kashmiri style yogurt gravy.",
+  "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/07/nadru-yakhni.jpg",
+  "category": {
+    "id": 1,
+    "name": "North Indian",
+    "image": "https://storage.googleapis.com/chefkartimages/customer_app_assets/star_chef/north_indian.png",
+    "isRecommendedForMealSuggestion": true
+  },
+  "dishType": "CURRY",
+  "forChefit": true,
+  "forParty": true,
+  "name": "Nadru Yakhni",
+  "id": 26
+},
+{
+  "categoryId": 1,
+  "mealType": "MAIN COURSE",
+  "type": "VEG",
+  "description": "Okra cooked with aromatic spices in a dry style preparation.",
+  "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2018/07/bharwa-bhindi-recipe-1.jpg",
+  "category": {
+    "id": 1,
+    "name": "North Indian",
+    "image": "https://storage.googleapis.com/chefkartimages/customer_app_assets/star_chef/north_indian.png",
+    "isRecommendedForMealSuggestion": true
+  },
+  "dishType": "DRY",
+  "forChefit": true,
+  "forParty": true,
+  "name": "Bharwa Bhindi",
+  "id": 27
+},
+{
+  "categoryId": 1,
+  "mealType": "MAIN COURSE",
+  "type": "VEG",
+  "description": "Seasoned fried potatoes tossed with fenugreek leaves.",
+  "image": "https://www.whiskaffair.com/wp-content/uploads/2017/01/Aloo-Methi-2-3.jpg",
+  "category": {
+    "id": 1,
+    "name": "North Indian",
+    "image": "https://storage.googleapis.com/chefkartimages/customer_app_assets/star_chef/north_indian.png",
+    "isRecommendedForMealSuggestion": true
+  },
+  "dishType": "DRY",
+  "forChefit": true,
+  "forParty": true,
+  "name": "Aloo Methi",
+  "id": 28
+},
+{
+  "categoryId": 1,
+  "mealType": "MAIN COURSE",
+  "type": "VEG",
+  "description": "Curd-based kadhi with besan fritters (pakoras).",
+  "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2018/05/kadhi-pakora-recipe-1.jpg",
+  "category": {
+    "id": 1,
+    "name": "North Indian",
+    "image": "https://storage.googleapis.com/chefkartimages/customer_app_assets/star_chef/north_indian.png",
+    "isRecommendedForMealSuggestion": true
+  },
+  "dishType": "CURRY",
+  "forChefit": true,
+  "forParty": true,
+  "name": "Kadhi Pakora",
+  "id": 29
+},
+{
+  "categoryId": 1,
+  "mealType": "MAIN COURSE",
+  "type": "VEG",
+  "description": "Potatoes and peas cooked in a spicy tomato-based curry.",
+  "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2018/08/aloo-matar-recipe-1-500x500.jpg",
+  "category": {
+    "id": 1,
+    "name": "North Indian",
+    "image": "https://storage.googleapis.com/chefkartimages/customer_app_assets/star_chef/north_indian.png",
+    "isRecommendedForMealSuggestion": true
+  },
+  "dishType": "CURRY",
+  "forChefit": true,
+  "forParty": true,
+  "name": "Aloo Matar",
+  "id": 30
+}
+]

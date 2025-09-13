@@ -1,0 +1,11 @@
+.filters {
+  margin: 10px 0;
+  display: flex;
+  gap: 20px;
+  align-items: center;
+}
+
+.filters label {
+  font-size: 0.9rem;
+  cursor: pointer;
+}

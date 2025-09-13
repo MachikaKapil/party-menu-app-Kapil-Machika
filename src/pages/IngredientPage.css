@@ -1,0 +1,26 @@
+.ingredient-container {
+  padding: 20px;
+}
+
+.ingredient-header {
+  text-align: center;
+}
+
+.ingredient-header img {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 12px;
+  margin-bottom: 10px;
+}
+
+.ingredient-list {
+  margin-top: 15px;
+  list-style: none;
+  padding: 0;
+}
+
+.ingredient-list li {
+  font-size: 0.95rem;
+  margin: 4px 0;
+}

@@ -1,0 +1,64 @@
+.dish-card {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  border: 1px solid #ddd;
+  border-radius: 12px;
+  padding: 12px;
+  margin-bottom: 15px;
+  background: white;
+}
+
+.dish-info {
+  flex: 1;
+}
+
+.dish-info h3 {
+  margin: 0;
+  font-size: 1.1rem;
+}
+
+.dish-info p {
+  margin: 4px 0;
+  font-size: 0.85rem;
+  color: #555;
+}
+
+.dish-actions {
+  text-align: right;
+}
+
+.dish-img {
+  width: 90px;
+  height: 90px;
+  border-radius: 8px;
+  object-fit: cover;
+  margin-bottom: 8px;
+}
+
+.add-btn, .remove-btn {
+  border: none;
+  padding: 6px 12px;
+  border-radius: 8px;
+  cursor: pointer;
+  font-weight: 600;
+}
+
+.add-btn {
+  background: #00c853;
+  color: white;
+}
+
+.remove-btn {
+  background: #ff3d00;
+  color: white;
+}
+
+.ingredient-link {
+  display: block;
+  margin-top: 6px;
+  font-size: 0.9rem;
+  color: orange;
+  cursor: pointer;
+  text-decoration: underline;
+}
