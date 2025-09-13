@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.48e53331.css",
-    "main.js": "/static/js/main.b0bd115a.js",
-    "index.html": "/index.html",
-    "main.48e53331.css.map": "/static/css/main.48e53331.css.map",
-    "main.b0bd115a.js.map": "/static/js/main.b0bd115a.js.map"
+    "main.css": "/party-menu-app-Kapil-Machika/static/css/main.48e53331.css",
+    "main.js": "/party-menu-app-Kapil-Machika/static/js/main.b0bd115a.js",
+    "index.html": "/party-menu-app-Kapil-Machika/index.html",
+    "main.48e53331.css.map": "/party-menu-app-Kapil-Machika/static/css/main.48e53331.css.map",
+    "main.b0bd115a.js.map": "/party-menu-app-Kapil-Machika/static/js/main.b0bd115a.js.map"
   },
   "entrypoints": [
     "static/css/main.48e53331.css",
